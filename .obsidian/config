@@ -26,16 +26,20 @@
         "active": true,
         "master": "",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "verben/verben.md",
+            "mode": "source"
+          }
         }
       }
     ]
   },
   "lastOpenFiles": [
+    "verben/verben.md",
+    "verben/irregulär/irregulär.md",
+    "fragen/fragen.md",
     "verben/regulär/regulär.md",
-    "verben.md",
-    "regulär/regulär.md",
-    "regulär.md"
+    "zahlen/zahlen.md"
   ]
 }

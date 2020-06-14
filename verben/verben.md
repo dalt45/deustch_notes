@@ -2,5 +2,5 @@
 
 ##Conections
 -[[regulär]]
--[[irreguläre]]
+-[[irregulär]]
 
