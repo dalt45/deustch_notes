@@ -30,6 +30,7 @@
 |80|archtzig|
 |90|neunzig|
 |100|einhundert|
+|1000|eintausend|
 
 
 
