@@ -16,15 +16,11 @@
   "workspaceLayout": {
     "id": "95313085943cc76e",
     "type": "split",
-    "dimension": null,
-    "direction": "vertical",
     "children": [
       {
         "id": "92eddbaf20311215",
         "type": "leaf",
-        "dimension": null,
         "active": true,
-        "master": "",
         "state": {
           "type": "markdown",
           "state": {
@@ -33,7 +29,8 @@
           }
         }
       }
-    ]
+    ],
+    "direction": "vertical"
   },
   "lastOpenFiles": [
     "verben/verben.md",
@@ -41,5 +38,58 @@
     "fragen/fragen.md",
     "verben/regulär/regulär.md",
     "zahlen/zahlen.md"
-  ]
+  ],
+  "leftSidedock": {
+    "id": "90cefa023e2018e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "04dc6e4062003aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "716f5dda45d45f15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "255989f31251e470",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "19ddf3abac063ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6099c439c47de2a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99bab1bcee035591",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  }
 }
